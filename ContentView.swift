@@ -39,6 +39,7 @@ struct ContentView: View {
 //            }
                 
             Spacer()
+            Spacer()
             
             HStack {
                 Image(systemName: "globe")
