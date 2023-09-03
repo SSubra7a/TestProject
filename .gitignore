@@ -1,0 +1,6 @@
+*.xcuserstate
+DerivedData/
+build/
+*.pbxuser
+.DS_Store
+xcuserdata/
